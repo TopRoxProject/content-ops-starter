@@ -4,14 +4,12 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: TopRoxProject este Platforma care te ghideaza cum sa fii un leader de succes!
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Serviciile noastre
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Expertiza noastra in consultanta IT si de business iti sta la dispozitie in domenii ca Project Management, Negociere, Eleborare Planuri Strategice etc
     actions:
       - label: Get started
         altText: ''
