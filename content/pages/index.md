@@ -4,12 +4,12 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: TopRoxProject este Platforma care te ghideaza cum sa fii un leader de succes!
+      text: TopRoxProject este Consultantul tau in Strategie IT si de Business!
       color: text-dark
       type: TitleBlock
     subtitle: Serviciile noastre
     text: >
-      Expertiza noastra in consultanta IT si de business iti sta la dispozitie in domenii ca Project Management, Negociere, Eleborare Planuri Strategice etc
+      Expertiza noastra in Consultanta IT si de Business iti sta la dispozitie in domenii ca Project Management, Negociere, Eleborare Planuri Strategice etc
     actions:
       - label: Get started
         altText: ''
